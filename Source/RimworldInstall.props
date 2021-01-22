@@ -1,7 +1,7 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <RimworldManagedDir10>$(SolutionDir)\..\..\Lib\1.0\RimWorldWin64_Data\Managed\</RimworldManagedDir10>
-    <RimworldManagedDir11>$(SolutionDir)\..\..\Lib\1.1\RimWorldWin64_Data\Managed\</RimworldManagedDir11>
+    <RimworldManagedDir11>c:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\</RimworldManagedDir11>
   </PropertyGroup>
   <!-- TODO: maybe later introduce auto path selection based on OS (Condition - see stackoverflow.com/questions/43499222) -->
 </Project>
